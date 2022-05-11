@@ -1,5 +1,5 @@
 # TS CHAT, A Chatting Application
-## TS Chat, an alternative for messenger, enables low end pc users to enjoy the features to communicate with others more securely in a texting way.
+> TS Chat, an alternative for messenger, enables low end pc users to enjoy the features to communicate with others more securely in a texting way.
 <br>
 
 # Why TS CHAT?
